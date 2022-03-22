@@ -1,0 +1,5 @@
+{"address":"::","code":"EADDRINUSE","errno":-98,"level":"error","port":1337,"syscall":"listen","timestamp":"2022-03-21T23:33:55.640Z"}
+{"address":"::","code":"EADDRINUSE","errno":-98,"level":"error","port":1337,"syscall":"listen","timestamp":"2022-03-21T23:34:22.433Z"}
+{"address":"::","code":"EADDRINUSE","errno":-98,"level":"error","port":1337,"syscall":"listen","timestamp":"2022-03-21T23:34:30.421Z"}
+{"address":"::","code":"EADDRINUSE","errno":-98,"level":"error","port":1337,"syscall":"listen","timestamp":"2022-03-21T23:34:52.212Z"}
+{"code":141,"level":"error","message":"Invalid function: \"hello\"","stack":"Error: Invalid function: \"hello\"\n    at handleCloudFunction (/home/crystal/Workspace/soymomo/parse-server/parse-server-example/node_modules/parse-server/lib/Routers/FunctionsRouter.js:118:13)\n    at /home/crystal/Workspace/soymomo/parse-server/parse-server-example/node_modules/parse-server/lib/PromiseRouter.js:85:20","timestamp":"2022-03-21T23:39:39.783Z"}
